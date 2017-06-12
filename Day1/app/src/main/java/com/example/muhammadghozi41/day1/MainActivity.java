@@ -1,5 +1,6 @@
 package com.example.muhammadghozi41.day1;
 
+import android.content.Context;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -7,7 +8,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Button;
-import android.content.Context;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -19,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         text.setAllCaps(true);
         final EditText input1 = (EditText) findViewById(R.id.input_nama);
         Button semangat = (Button) findViewById(R.id.button_semangat);
-
+        Button lanjut = (Button) findViewById(R.id.button_lanjut);
         final Intent intent = new Intent(this, HomeActivity.class);
         final Context ctx = getApplicationContext();
 
@@ -30,7 +31,10 @@ public class MainActivity extends AppCompatActivity {
                 text.setAllCaps(false);
                 text.setText("Halo "+input1.getText()+"! Semangat ya!!");
                 intent.putExtra("name", input1.getText().toString());
-
+            }
+        });
+        lanjut.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View view){
                 ctx.startActivity(intent);
             }
         });

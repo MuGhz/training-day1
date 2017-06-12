@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Button;
+import android.widget.Toast;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -30,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view){
                 text.setAllCaps(false);
                 text.setText("Halo "+input1.getText()+"! Semangat ya!!");
+                Toast.makeText(MainActivity.this,input1.getText(),Toast.LENGTH_SHORT).show();
                 intent.putExtra("name", input1.getText().toString());
             }
         });

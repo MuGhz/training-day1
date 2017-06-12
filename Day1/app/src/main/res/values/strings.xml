@@ -6,4 +6,8 @@
     <string name="hint_nama">Masukkan namamu....</string>
     <string name="halo">Halo </string>
     <string name="lanjut">Lanjutkan</string>
+    <string name="dialog_title">Perhatian</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="hehe">Hehehe...</string>
 </resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApps - MuGhz</string>
+    <string name="author">MuGhz</string>
+    <string name="fasilkom">Fasilkom UI</string>
+    <string name="semangat">Semangat kk!!</string>
+    <string name="hint_nama">Masukkan namamu....</string>
+    <string name="halo">Halo </string>
+    <string name="koma">,</string>
+</resources>

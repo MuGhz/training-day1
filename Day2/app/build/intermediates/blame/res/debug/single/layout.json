@@ -116,6 +116,10 @@
         "source": "/home/fasilkom/mahasiswa/m/muhammad.ghozi41/.android/build-cache/464361291cecdbfb4f4d6681c98472bcef8e0e19/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/res/merged/debug/layout/list_menu_layout.xml",
+        "source": "/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/src/main/res/layout/list_menu_layout.xml"
+    },
+    {
         "merged": "/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
         "source": "/home/fasilkom/mahasiswa/m/muhammad.ghozi41/.android/build-cache/464361291cecdbfb4f4d6681c98472bcef8e0e19/output/res/layout/notification_template_lines_media.xml"
     },
@@ -210,10 +214,6 @@
     {
         "merged": "/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
         "source": "/home/fasilkom/mahasiswa/m/muhammad.ghozi41/.android/build-cache/464361291cecdbfb4f4d6681c98472bcef8e0e19/output/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
-        "source": "/home/fasilkom/mahasiswa/m/muhammad.ghozi41/.android/build-cache/464361291cecdbfb4f4d6681c98472bcef8e0e19/output/res/layout/notification_template_custom_big.xml"
     },
     {
         "merged": "/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",

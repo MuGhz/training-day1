@@ -1,4 +1,4 @@
-#Tue Jun 13 13:23:22 WIB 2017
+#Wed Jun 14 13:24:50 WIB 2017
 base.0=/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
 renamed.0=classes.dex
 file.0=/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

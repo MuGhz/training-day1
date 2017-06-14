@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "com.pusilkom.training.dynamiclayout"
+        applicationId "com.example.muhammadghozi41.day2"
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1

@@ -13,6 +13,10 @@ ADDED from /home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_a
 	android:versionCode
 		INJECTED from /home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/src/main/AndroidManifest.xml
 		INJECTED from /home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/src/main/AndroidManifest.xml:4:22-64
 application
 ADDED from /home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/src/main/AndroidManifest.xml:5:5-22:19
 MERGED from [com.android.support:design:26.0.0-alpha1] /home/fasilkom/mahasiswa/m/muhammad.ghozi41/.android/build-cache/28657bf22db202820b6a40ed90eaaae81760271c/output/AndroidManifest.xml:29:5-20

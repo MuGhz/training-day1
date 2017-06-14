@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">Day2</string>
+    <string name="app_name">DynamicLayout</string>
+    <string name="default_label">Default Label</string>
+    <string name="default_desc">This is default description</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>

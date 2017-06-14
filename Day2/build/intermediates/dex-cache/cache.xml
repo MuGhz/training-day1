@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="204aaf4269b64d611a0d410f43d1a83787880d13">
+        <dex dex="/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_92434db50d59398f56b81f81a64a863c138d9cf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b2cec89ce4f037ff24e9b8920a07940c03603b6/classes.dex" />
+    </item>
+
+</items>

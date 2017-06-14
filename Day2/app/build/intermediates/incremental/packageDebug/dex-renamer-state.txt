@@ -1,0 +1,7 @@
+#Tue Jun 13 13:23:23 WIB 2017
+base.0=/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b2cec89ce4f037ff24e9b8920a07940c03603b6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_92434db50d59398f56b81f81a64a863c138d9cf3/classes.dex
+base.1=/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_92434db50d59398f56b81f81a64a863c138d9cf3
+file.0=/home/fasilkom/mahasiswa/m/muhammad.ghozi41/StudioProjects/training_android/Day2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b2cec89ce4f037ff24e9b8920a07940c03603b6/classes.dex

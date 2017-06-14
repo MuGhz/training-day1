@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.muhammadghozi41.day2">
+    package="com.pusilkom.training.dynamiclayout">
 
     <application
         android:allowBackup="true"
